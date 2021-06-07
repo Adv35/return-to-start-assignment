@@ -1,14 +1,6 @@
 
 > Open this page at [https://adv35.github.io/return-to-start-assignment/](https://adv35.github.io/return-to-start-assignment/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/adv35/return-to-start-assignment** and import
 
 ## Edit this project ![Build status badge](https://github.com/adv35/return-to-start-assignment/workflows/MakeCode/badge.svg)
 
@@ -29,3 +21,14 @@ This image may take a few minutes to refresh.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+#### The Task was:
+"Move the maqueen in the shape of a circle where the distance travelled by outer wheel is 48cms (try different speeds to see if you get an approximate circle in 48cms)
+show the pulse count of both wheels on OLED
+In the end, show the difference in the pulse count also on the OLED.
+
+
+display should show as below: (set the display zoom to false)
+R:  <value>
+L:  <value>
+diff: <value>"
+
